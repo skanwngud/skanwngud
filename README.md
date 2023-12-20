@@ -62,6 +62,12 @@
   <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=Insomnia&logoColor=white"/>
 </div>
 
+### Others
+<div>
+  <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=LaTeX&logoColor=white"/>
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white"/>
+</div>
+
 <!--
 **skanwngud/skanwngud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
